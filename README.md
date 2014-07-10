@@ -3,6 +3,8 @@ masspairing
 
 Exercise introduction and room layout for mass pairing exercise at /dev/summer conference
 
+We have five rooms, [choose a room](languages-rooms)
+
 ## Problem Description
 
 Taken from http://codingdojo.org/cgi-bin/index.pl?KataGameOfLife

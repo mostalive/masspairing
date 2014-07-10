@@ -1,13 +1,16 @@
+Choose a room based on the language you want to program in, or go to
+room 5 if your language is not listed.
+
 # Room 1 - dynamic
 
 * Javascript
-* Ruby
+* Python
 * PHP
-* Smalltalk
+* Ruby
+* Perl
 * CoffeeScript
 * Shell
-* Perl
-* Python
+* Smalltalk
 
 # Room 2 - Structs with and without functions
 
