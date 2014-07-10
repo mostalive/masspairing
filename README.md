@@ -3,7 +3,7 @@ masspairing
 
 Exercise introduction and room layout for mass pairing exercise at /dev/summer conference
 
-We have five rooms, [choose a room](languages-rooms)
+We have five rooms, [choose a room](languages-rooms.md)
 
 ## Problem Description
 
