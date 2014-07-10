@@ -1,7 +1,8 @@
+# Languages per room
 Choose a room based on the language you want to program in, or go to
 room 5 if your language is not listed.
 
-# Room 1 - dynamic
+## Room 1 - dynamic
 
 * Javascript
 * Python
@@ -12,15 +13,16 @@ room 5 if your language is not listed.
 * Shell
 * Smalltalk
 
-# Room 2 - Structs with and without functions
+## Room 2 - Structs with and without functions
 
 * C#
 * Java
 * C
 * C++
 * Objective-C
+* Go Language
 
-# Room 3 - Infect the host
+## Room 3 - Infect the host
 
 * Clojure
 * Scala
@@ -28,14 +30,14 @@ room 5 if your language is not listed.
 * JRuby
 * Groovy
 
-# Room 4 - it's a functional world
+## Room 4 - it's a functional world
 
 * Haskell
 * Erlang
 * Idris
 * Agda
 
-# Room 5 - DSLs on steroids
+## Room 5 - DSLs on steroids
 
 * R
 * Matlab
