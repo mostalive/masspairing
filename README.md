@@ -20,11 +20,12 @@ Robert Chatley, Giovanni Asproni, Arnaud Bailly, Mark Dalgarno and
 Willem van den Ende will be facilitating in each room, making sure you
 have fun, and maybe learn something :).
 
-## Why this exercies?
+## Why this exercise?
 We chose the game of life, because if you practice it, you can do it in
-a relatevily short amount of time. Emmanuel Gaillot ran it as a kata at
+a relatively short amount of time. Emmanuel Gaillot ran it as a kata at
 xp2005, afterwards it has been picked up as kata of choice for the
-global day of code retreat. 
+global day of code retreat. The game has nice generative rules, some IO
+and a grid that needs a good representation. 
 
 The goal of the exercise is not to rush to create a full solution, but
 to work together in baby steps, working as well as you can. This
@@ -51,37 +52,4 @@ generation of the grid, follow these rules:
       next generation.
 4. Any dead cell with exactly three live neighbours becomes a live
       cell.
-
-You should write a program that can accept an arbitrary grid of cells,
-and will output a similar grid showing the next generation.
-
-Clues
-
-The input starting position could be a text file that looks like this:
-
-Generation 1:
-
-4 8
-
-........
-
-....*...
-
-...**...
-
-........
-
-And the output could look like this:
-
-Generation 2:
-
-4 8
-
-........
-
-...**...
-
-...**...
-
-........
 
