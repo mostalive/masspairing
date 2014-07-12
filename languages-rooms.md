@@ -36,6 +36,7 @@ room 5 if your language is not listed.
 * Erlang
 * Idris
 * Agda
+* Rust
 
 ## Room 5 - DSLs on steroids
 

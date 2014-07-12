@@ -1,6 +1,6 @@
 masspairing
 ===========
-Exercise introduction and room layout for mass pairing exercise at
+Exercise introduction and room layout for experimentel mass pairing exercise at
 /dev/summer conference.
 
 We organise a Mass Pair Programming Session at /dev/summer , because we
@@ -8,10 +8,9 @@ find that doing small katas is valuable and that programming together is
 the best way to network for developers - what better way to get to know
 another developer than develop together?. 
 
-We have five rooms, [choose a room](languages-rooms.md) with the
+We have five rooms,[choose a room](languages-rooms.md) with the
 language you want to. The mass pairing session takes place from 13:35 to
-14:20 with a brief introduction in Room 1 at the start. Find someone you
-have not met, or at least programmed with, before who also wants to
+14:20. Find someone you have not met, or at least programmed with, before who also wants to
 program in the same language. It's probably easiest if one of you has
 previous experience in your language of choice, but you can be more
 daring if you want. Katas are a great way to explore new languages.
