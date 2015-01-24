@@ -1,48 +1,41 @@
-# Languages per room
-Choose a room based on the language you want to program in, or go to
-room 5 if your language is not listed.
+Mass pairing, Programming languages per room
 
-## Room 1 - dynamic
 
-* Javascript
-* Python
-* PHP
-* Ruby
-* Perl
-* CoffeeScript
-* Shell
-* Smalltalk
 
-## Room 2 - Structs with and without functions
+room / languages
+Suite 4
 
-* C#
-* Java
-* C
-* C++
-* Objective-C
-* Go Language
+Java
+Clojure
+Scala
+Groovy
+other JVM languages
 
-## Room 3 - Infect the host
+Suite 3
 
-* Clojure
-* Scala
-* F#
-* JRuby
-* Groovy
+Javascript
+C#
+F#
+other .Net languages
+C
 
-## Room 4 - it's a functional world
+Suite 10
 
-* Haskell
-* Erlang
-* Idris
-* Agda
-* Rust
+Python
+Ruby
+Perl
+PHP
+Objective C
 
-## Room 5 - DSLs on steroids
+Suite 2
 
-* R
-* Matlab
-* Visual Basic
-* Excel
-* Brainfuck
-* My language is not on the list
+Haskell
+Ocaml
+Erlang
+
+
+Suite 5
+
+Julia
+Shell
+My language is not on the list
