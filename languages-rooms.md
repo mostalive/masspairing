@@ -38,4 +38,7 @@ Suite 5
 
 Julia
 Shell
+D
+Go
+C++
 My language is not on the list
