@@ -1,5 +1,17 @@
 Masspairing
 ===========
+TL;DR
+-----
+
+1. [Choose a room for your language of choice](languages-rooms.md) 
+2. Pair up
+3. Read exercise instructions at the bottom of this page
+4. Code
+4. Have Fun!
+5. Reflect with your peers in the room near the end
+
+Long Intro
+-----------
 Exercise introduction and room layout for experimentel mass pairing
 exercise at
 /dev/summer conference.
@@ -10,7 +22,7 @@ the best way to network for developers - what better way to get to know
 another developer than develop together?. The one at /dev/summer was
 fun, so let's do it again :-).
 
-We have five rooms,[choose a room](languages-rooms.md) with the
+We have five rooms, [choose a room](languages-rooms.md) with the
 language you want to. The mass pairing session takes place from 13:35 to
 14:20. Find someone you have not met, or at least programmed with,
 before who also wants to program in the same language. It's probably easiest if one of you has
