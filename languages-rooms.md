@@ -1,44 +1,27 @@
 Mass pairing, Programming languages per room
 
-
-
 room / languages
-Suite 4
 
-Java
-Clojure
-Scala
-Groovy
-other JVM languages
+Room XY - Curly Braces starting with C
+- C  
+- C++  
+- Csharp  
 
-Suite 3
+Room XY - Curly braces starting with J and P
+- Java  
+- Javascript
+- PHP
 
-Javascript
-C#
-F#
-other .Net languages
-C
+ROOM XY - scripting with or without objects
 
-Suite 10
+- Perl 
+- Plsql  
+- Python  
+- R  
+- Ruby    
+- Smalltalk
 
-Python
-Ruby
-Perl
-PHP
-Objective C
+Room XY - lets get functional
+-  Haskell  
+-  Scala
 
-Suite 2
-
-Haskell
-Ocaml
-Erlang
-
-
-Suite 5
-
-Julia
-Shell
-D
-Go
-C++
-My language is not on the list
