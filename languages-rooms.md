@@ -12,16 +12,18 @@ Room XY - Curly braces starting with J and P
 - Javascript
 - PHP
 
-ROOM XY - scripting with or without objects
+ROOM XY - scripting with the P
 
 - Perl 
 - Plsql  
-- Python  
+- Python 
+
+ROOM XY - Scripting with Rs and the mother of Objects
 - R  
 - Ruby    
 - Smalltalk
 
-Room XY - lets get functional
+Room XY - Lets get functional
 -  Haskell  
 -  Scala
 
