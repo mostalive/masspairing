@@ -12,7 +12,7 @@ Room XY - Curly braces starting with J and P
 - Javascript
 - PHP
 
-ROOM XY - scripting with the P
+ROOM XY - Scripting with the P
 
 - Perl 
 - Plsql  

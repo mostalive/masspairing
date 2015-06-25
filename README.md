@@ -58,4 +58,8 @@ to work together in baby steps, working as well as you can. We do recommend that
 version control, commit ridiculously often, and just revert if you get
 stuck.
 
+Since this is legacy code, the written requirements may not have all the
+cases present in the actual code. Ensure you keep the behaviour the
+system has now.
 
+Have fun!
