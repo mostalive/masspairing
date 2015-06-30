@@ -6,7 +6,7 @@ https://www.github.com/mostalive/masspairing
 TL;DR
 -----
 
-1. [Form a line in the order of the programming languages](languages-rooms.md) 
+1. [Form a line in the order of the programming languages](languages-rooms) 
 2. Pair up with someone you have not worked with before
 3. Read exercise instructions at the bottom of this page
 4. Code
