@@ -1,29 +1,21 @@
 Mass pairing, Programming languages per room
 
-room / languages
+Languages by alphabet.
 
-Room XY - Curly Braces starting with C
+Make a half circle, C starts at the left of the room.
+
 - C  
 - C++  
 - Csharp  
-
-Room XY - Curly braces starting with J and P
+- Haskell  
 - Java  
 - Javascript
-- PHP
-
-ROOM XY - Scripting with the P
-
 - Perl 
+- PHP
 - Plsql  
 - Python 
-
-ROOM XY - Scripting with Rs and the mother of Objects
 - R  
 - Ruby    
+- Scala
 - Smalltalk
-
-Room XY - Lets get functional
--  Haskell  
--  Scala
 

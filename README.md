@@ -1,10 +1,13 @@
 Masspairing
 ===========
+
+https://www.github.com/mostalive/masspairing
+
 TL;DR
 -----
 
-1. [Choose a room for your language of choice](languages-rooms.md) 
-2. Pair up
+1. [Form a line in the order of the programming languages](languages-rooms.md) 
+2. Pair up with someone you have not worked with before
 3. Read exercise instructions at the bottom of this page
 4. Code
 4. Have Fun!
@@ -12,31 +15,14 @@ TL;DR
 
 Long Intro
 -----------
-Exercise introduction and room layout for experimentel mass pairing
-exercise at
-/dev/summer conference.
+Exercise introduction and room layout for mass pairing
+exercise at SPA 2015
 
-We
-find that doing small exercises is valuable for learning and that programming together is
+
+We find that doing small exercises is valuable for learning and that programming together is
 the best way to network for developers - what better way to get to know
 each other and
-fun, so let's do it again :-).
-
-We have five rooms, [choose a room](languages-rooms.md) with the
-language you want to. The mass pairing session takes place from 13:35 to
-14:20. Find someone you have not met, or at least programmed with,
-before who also wants to program in the same language. It's probably easiest if one of you has
-previous experience in your language of choice, but you can be more
-daring if you want. Katas are a great way to explore new languages.
-
-Mark Dalgarno and Willem van den Ende will be facilitating from the
-hallway, and walking around the rooms making sure you
-have fun, and maybe learn something :).
-
-Around 14:05, put down your keyboards, stop, and have a look with other people
-in the room at one or more outcomes. Look not just for the solution, but
-the steps you took to get where you are and difficulties you encountered
-along the way.
+fun.
 
 ## Gilded Rose Refactoring kata
 
