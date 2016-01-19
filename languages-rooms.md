@@ -1,22 +1,8 @@
-Mass pairing, Programming languages per room
+Mass pairing for /dev/winter 2016, Programming languages per room
 
-Languages by alphabet.
-
-Make a half circle, C starts at the left of the room.
-Find someone you have not programmed with before. At least one of you better know the language you want to use :-).
-
-- C  
-- C++  
-- Csharp  
-- Haskell  
-- Java  
-- Javascript
-- Perl 
-- PHP
-- Plsql  
-- Python 
-- R  
-- Ruby    
-- Scala
-- Smalltalk
+Suite 4 - Java Clojure Scala Groovy other JVM languages
+Suite 3 - Javascript C# F# other .Net languages C
+Suite 10 - Python Ruby Perl PHP Objective C
+Suite 2 - Haskell Ocaml Erlang
+Suite 5 - Julia Shell D Go C++ My language is not on the list
 
