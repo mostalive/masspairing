@@ -33,11 +33,11 @@ We've modified Keiths' description a tiny bit to make it fit in the time. I reco
 2. See it fail
 3. Make the test from (1) pass by writing the least implementation code you can in the test method.
 4. Refactor to remove duplication, and otherwise as required to improve the design. Be strict about using these moves:
-  4.1 *you want a new method—wait until refactoring time, then…* create new (non-test) methods by doing one of these, and in no other way:
-    4.1.1 _preferred_: do Extract Method on implementation code created as per (3) to create a new method in the test class, or
-    4.1.2 _if you must_: move implementation code as per (3) into an existing implementation method
-  4.2 *you want a new class—wait until refactoring time, then…* create non-test classes to provide a destination for a Move Method and for no other reason
-   4.2.2 populate implementation classes with methods by doing Move Method, and no other way
+  1. *you want a new method—wait until refactoring time, then…* create new (non-test) methods by doing one of these, and in no other way:
+    1. _preferred_: do Extract Method on implementation code created as per (3) to create a new method in the test class, or
+    1. _if you must_: move implementation code as per (3) into an existing implementation method
+  1. *you want a new class—wait until refactoring time, then…* create non-test classes to provide a destination for a Move Method and for no other reason
+    1. populate implementation classes with methods by doing Move Method, and no other way
 
 *The member of the pair without their hands on the keyboard must be very strict in enforcing these rules, especially 4.1 and 4.2*
 
