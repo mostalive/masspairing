@@ -1,8 +1,8 @@
 Mass pairing for /dev/winter 2016, Programming languages per room
 
-Suite 4 - Java Clojure Scala Groovy other JVM languages
-Suite 3 - Javascript C# F# other .Net languages C
-Suite 10 - Python Ruby Perl PHP Objective C
-Suite 2 - Haskell Ocaml Erlang
-Suite 5 - Julia Shell D Go C++ My language is not on the list
+Suite 3 - Java Clojure Scala Groovy other JVM languages
+Study Centre 11 - Javascript C# F# other .Net languages C
+Study Centre 10- Python Ruby Perl PHP Objective C
+Study Centre 9 - Haskell Ocaml Erlang
+Study Centre 8 - Julia Shell D Go C++ My language is not on the list
 
