@@ -25,7 +25,7 @@ each other and have fun than write some code together.
 
 ## TDD as if you meant it
 
-This is a favourite exercise, [devised by Keith Braithwaite](http://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/) to take even smaller baby steps in programming. I have not dared test it with people who have not done TDD before, it might not be suitable, in that case you might decide to approach tic-tac-toe another way.
+This is a favourite exercise, [devised by Keith Braithwaite](http://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/) to take even smaller baby steps in programming. I have not dared test it with people who have not done TDD before, it might not be suitable, in that case you might decide to approach tic-tac-toe another way. For functional programmers, replace '_method_ with _function_ and _class_ with _module_ and _record_ in the instructions below..
 
 We've modified Keiths' description a tiny bit to make it fit in the time. I recommend you read [his description, analysis and others' experiences](http://cumulative-hypotheses.org/2011/08/30/tdd-as-if-you-meant-it/) afterwards. The original suggests first to write tic-tac-toe how you would work normally, and then do it following the _TDD as if you meant it_ rules. We're going to dive straight in and do it with the _TDD as if you meant it_ rules:
 
